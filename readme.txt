@@ -1,2 +1,2 @@
 Git is a version control system.
-Git is free software, and I like it.
+Git is free software distributed under the GPL.
